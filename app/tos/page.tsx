@@ -7,6 +7,13 @@ const Tos = () => {
     <div className="container mx-auto p-6">
       {/* English Version */}
       <div className="mb-12">
+        <Image
+          src="/trans_bg.png"
+          alt="Logo Ahofa App"
+          width={250}
+          height={250}
+          className="self-center mx-auto my-6"
+        />
         <div className="flex items-center mb-4">
           <Image
             src="https://flagcdn.com/us.svg"

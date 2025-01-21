@@ -101,27 +101,27 @@ const Tos = () => {
           </h3>
           <p className="mb-4">
             Les utilisateurs conservent la pleine propriété de tout le contenu
-            et les données qu'ils partagent sur l'application.
+            et les données qu&apos;ils partagent sur l&apos;application.
           </p>
           <p className="mb-4">
             Les utilisateurs ont le droit de supprimer leur contenu à tout
             moment ou de signaler un vol de données personnelles.
           </p>
           <p>
-            L'application agit uniquement comme une plateforme et ne revendique
-            pas la propriété du contenu des utilisateurs.
+            L&apos;application agit uniquement comme une plateforme et ne
+            revendique pas la propriété du contenu des utilisateurs.
           </p>
 
           <h3 className="text-xl font-semibold mt-6 mb-2">
             2. Régulation du Contenu
           </h3>
           <p className="mb-4">
-            L'application s'efforce de réguler le contenu pour garantir un
-            environnement sûr et fiable.
+            L&apos;application s&apos;efforce de réguler le contenu pour
+            garantir un environnement sûr et fiable.
           </p>
           <p>
             Les utilisateurs sont seuls responsables et imputables du contenu
-            qu'ils partagent sur l'application.
+            qu&apos;ils partagent sur l&apos;application.
           </p>
 
           <h3 className="text-xl font-semibold mt-6 mb-2">
@@ -132,26 +132,27 @@ const Tos = () => {
             utilisées à des fins publicitaires.
           </p>
           <p className="mb-4">
-            L'application ne suit pas les données personnelles, mais peut
+            L&apos;application ne suit pas les données personnelles, mais peut
             utiliser des données comportementales pour proposer des suggestions
             personnalisées basées sur les habitudes des utilisateurs.
           </p>
           <p>
-            L'application ne partage pas les données personnelles avec des tiers
-            sauf en cas d'obligation légale.
+            L&apos;application ne partage pas les données personnelles avec des
+            tiers sauf en cas d&apos;obligation légale.
           </p>
 
           <h3 className="text-xl font-semibold mt-6 mb-2">
             4. Responsabilité des Utilisateurs
           </h3>
           <p className="mb-4">
-            Les utilisateurs sont entièrement responsables de s'assurer que tout
-            contenu qu'ils partagent sur l'application est licite et ne viole
-            pas les droits des autres.
+            Les utilisateurs sont entièrement responsables de s&apos;assurer que
+            tout contenu qu&apos;ils partagent sur l&apos;application est licite
+            et ne viole pas les droits des autres.
           </p>
           <p>
-            L'application décline toute responsabilité quant à l'exactitude ou
-            la légalité du contenu partagé par les utilisateurs.
+            L&apos;application décline toute responsabilité quant à
+            l&apos;exactitude ou la légalité du contenu partagé par les
+            utilisateurs.
           </p>
         </div>
       </div>

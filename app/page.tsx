@@ -34,7 +34,7 @@ export default function Home() {
         />
         <Button variant={"outline"} asChild>
           <Link href={"/tos"}>
-            Conditions Générales d'utilisation <ArrowUpRight size={22} />
+            Conditions Générales d&apos;utilisation <ArrowUpRight size={22} />
           </Link>
         </Button>
       </main>

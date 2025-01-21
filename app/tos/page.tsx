@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import React from "react";
 // pages/content-policy.js
 import Image from "next/image";
 

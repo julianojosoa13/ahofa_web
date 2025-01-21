@@ -4,11 +4,7 @@ import Lottie from "react-lottie-player";
 
 import lottieJson from "@/assets/lottie/shop.json";
 import { Button } from "@/components/ui/button";
-import {
-  ArrowBigRightDash,
-  ArrowRightToLine,
-  ArrowUpRight,
-} from "lucide-react";
+import { ArrowUpRight } from "lucide-react";
 import Link from "next/link";
 
 export default function Home() {

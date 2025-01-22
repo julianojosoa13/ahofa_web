@@ -32,11 +32,11 @@ export default function Home() {
             marginRight: "auto",
           }}
         />
-        <Button variant={"outline"} asChild>
-          <Link href={"/tos"}>
+        <button className="btn btn-primary text-white ">
+          <Link href={"/tos"} className="flex-row flex items-center gap-4">
             Conditions Générales d&apos;utilisation <ArrowUpRight size={22} />
           </Link>
-        </Button>
+        </button>
       </main>
     </div>
   );

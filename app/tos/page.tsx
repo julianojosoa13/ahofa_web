@@ -236,7 +236,7 @@ const Tos = () => {
             className={`tab ${activeTab === language ? "tab-active" : ""}`}
             onClick={() => setActiveTab(language)}
           >
-            <div className="flex items-center mb-4">
+            <div className="flex items-center mb-4 justify-center">
               <Image
                 src={
                   language === "English"

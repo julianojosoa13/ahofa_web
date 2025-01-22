@@ -248,7 +248,9 @@ const Tos = () => {
                 alt={`${language} Flag`}
                 width={30}
                 height={26}
-                className="mr-2"
+                className={`mr-2 md:mt-0 ${
+                  language === "English" ? "mt-2" : "mt-1"
+                }`}
               />
               <h2
                 className={`text-lg font-light hidden md:block ${

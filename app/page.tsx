@@ -3,7 +3,7 @@ import Image from "next/image";
 import Lottie from "react-lottie-player";
 
 import lottieJson from "@/assets/lottie/shop.json";
-import { User, ZapIcon } from "lucide-react";
+import { ArrowUpRight, User, ZapIcon } from "lucide-react";
 import Link from "next/link";
 
 export default function Home() {
@@ -68,6 +68,13 @@ export default function Home() {
             </button>
           </Link>
         </div>
+        <Link
+          href="/tos"
+          className="my-4 flex flex-row items-center justify-center gap-2 font-extralight text-sm"
+        >
+          Voir les conditions générales d&apos;utilisation{" "}
+          <ArrowUpRight color="grey" />
+        </Link>
       </main>
 
       {/* Footer */}

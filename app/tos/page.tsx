@@ -222,6 +222,7 @@ const Tos = () => {
         alt="Logo Ahofa App"
         width={250}
         height={250}
+        unoptimized={true} // Disable Next.js image optimization
         className="self-center mx-auto my-6"
       />
       <div
@@ -245,9 +246,9 @@ const Tos = () => {
                     : "https://flagcdn.com/mg.svg"
                 }
                 alt={`${language} Flag`}
-                width={24}
-                height={24}
-                className="w-6 h-6 mr-2"
+                width={30}
+                height={26}
+                className="mr-2"
               />
               <h2
                 className={`text-lg font-light hidden md:block ${

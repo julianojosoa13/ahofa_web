@@ -15,6 +15,7 @@ export default function Home() {
           alt="Logo Ahofa App"
           width={220}
           height={220}
+          unoptimized={true} // Disable Next.js image optimization
           className="self-center mx-auto my-6"
         />
 

@@ -145,22 +145,22 @@ const Tos = () => {
           <div className="mb-12">
             <div className="bg-white p-6 rounded-lg shadow">
               <h1 className="text-3xl font-extralight my-8">
-                Fepetra ankapobeny amin'ny fampiasana
+                Fepetra ankapobeny amin&apos;ny fampiasana
               </h1>
               <h3 className="text-xl font-semibold mb-2">
                 1. Fananana ny Votoaty
               </h3>
               <p className="mb-4">
-                Ny mpampiasa dia mitazona tanteraka ny fananan’izy ireo rehetra
-                sy ny angona zarainy ao amin’ny fampiharana.
+                Ny mpampiasa dia mitazona tanteraka ny fananan&apos;izy ireo
+                rehetra sy ny angona zarainy ao amin&apos;ny fampiharana.
               </p>
               <p className="mb-4">
-                Manan-jo hanaisotra ny votoatiny amin’ny fotoana rehetra na
+                Manan-jo hanaisotra ny votoatiny amin&apos;ny fotoana rehetra na
                 mitatitra angon-drakitra very na nangalarina ny mpampiasa.
               </p>
               <p>
-                Ny fampiharana dia sehatra fotsiny ary tsy manao an’izay votoaty
-                ampiasain’ny mpampiasa ho fananany.
+                Ny fampiharana dia sehatra fotsiny ary tsy manao an&apos;izay
+                votoaty ampiasain&apos;ny mpampiasa ho fananany.
               </p>
 
               <h3 className="text-xl font-semibold mt-6 mb-2">
@@ -171,8 +171,8 @@ const Tos = () => {
                 tontolo azo antoka sy atokisana.
               </p>
               <p>
-                Ny mpampiasa dia tompon’andraikitra feno sy azo itokisana
-                amin’ny votoaty zarainy ao amin’ny fampiharana.
+                Ny mpampiasa dia tompon&apos;andraikitra feno sy azo itokisana
+                amin&apos;ny votoaty zarainy ao amin&apos;ny fampiharana.
               </p>
 
               <h3 className="text-xl font-semibold mt-6 mb-2">
@@ -180,29 +180,32 @@ const Tos = () => {
               </h3>
               <p className="mb-4">
                 Ny mpampiasa dia manaiky ny hampiasaina ny angon-drakitra sasany
-                ho an’ny dokambarotra.
+                ho an&apos;ny dokambarotra.
               </p>
               <p className="mb-4">
                 Ny fampiharana dia tsy manara-maso angon-drakitra manokana fa
-                mety hampiasa angon-drakitra mikasika ny fitondran’tena mba
-                hanolorana soso-kevitra manokana mifanaraka amin’ny fahazarana
-                ampiasain’ny mpampiasa.
+                mety hampiasa angon-drakitra mikasika ny fitondrantena mba
+                hanolorana soso-kevitra manokana mifanaraka amin&apos;ny
+                fahazarana ampiasain&apos;ny mpampiasa.
               </p>
               <p>
-                Ny fampiharana dia tsy mizara angon-drakitra manokana amin’ny
-                antoko fahatelo raha tsy hoe noho ny antony ara-dalàna.
+                Ny fampiharana dia tsy mizara angon-drakitra manokana
+                amin&apos;ny antoko fahatelo raha tsy hoe noho ny antony
+                ara-dalàna.
               </p>
 
               <h3 className="text-xl font-semibold mt-6 mb-2">
                 4. Andraikitry ny Mpampiasa
               </h3>
               <p className="mb-4">
-                Ny mpampiasa dia tompon’andraikitra feno amin’ny fanamarinana fa
-                ara-dalàna ny votoaty zarainy ary tsy mandika ny zon’ny hafa.
+                Ny mpampiasa dia tompon&apos;andraikitra feno amin&apos;ny
+                fanamarinana fa ara-dalàna ny votoaty zarainy ary tsy mandika ny
+                zon&apos;ny hafa.
               </p>
               <p>
-                Ny fampiharana dia tsy tompon’andraikitra amin’ny fahamarinan’ny
-                na ny ara-dalàna ny votoaty zarain’ny mpampiasa.
+                Ny fampiharana dia tsy tompon&apos;andraikitra amin&apos;ny
+                fahamarinan&apos;ny na ny ara-dalàna ny votoaty zarain&apos;ny
+                mpampiasa.
               </p>
             </div>
           </div>

@@ -250,7 +250,7 @@ const Tos = () => {
                 className="w-6 h-6 mr-2"
               />
               <h2
-                className={`text-lg font-light ${
+                className={`text-lg font-light hidden md:block ${
                   activeTab === language ? "text-white" : ""
                 }`}
               >

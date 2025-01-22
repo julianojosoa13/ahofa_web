@@ -3,7 +3,6 @@ import Image from "next/image";
 import Lottie from "react-lottie-player";
 
 import lottieJson from "@/assets/lottie/shop.json";
-import { Button } from "@/components/ui/button";
 import { ArrowUpRight } from "lucide-react";
 import Link from "next/link";
 

@@ -75,7 +75,7 @@ const Tos = () => {
           <div className="mb-12">
             <div className="bg-white p-6 rounded-lg shadow">
               <h1 className="text-3xl font-extralight my-8">
-                Conditions générales d'utilisation
+                Conditions générales d&apos;utilisation
               </h1>
               <h3 className="text-xl font-semibold mb-2">
                 1. Propriété du Contenu

@@ -3,7 +3,7 @@ import Image from "next/image";
 import Lottie from "react-lottie-player";
 
 import lottieJson from "@/assets/lottie/shop.json";
-import { ArrowUpRight, User, ZapIcon } from "lucide-react";
+import { User, ZapIcon } from "lucide-react";
 import Link from "next/link";
 
 export default function Home() {
@@ -20,6 +20,7 @@ export default function Home() {
               width={50}
               height={50}
               className="unoptimized"
+              unoptimized={true}
             />
             <span className="text-xl font-semibold text-gray-800">
               Ahofa App
